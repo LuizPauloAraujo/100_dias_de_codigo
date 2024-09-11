@@ -1,6 +1,6 @@
-num1 = float(input("Digite o primeiro número:  "))
-num2 = float(input("Digite o segundo número:  "))
+n1 = float(input("Digite o primeiro número:  "))
+n2 = float(input("Digite o segundo número:  "))
 
-resultado = num1 + num2
+resultado = n1 + n2
 
 print("O resultado é: ", resultado)

@@ -1,4 +1,6 @@
-tabuada=int(input("Tabuada do numero: "))
+num1 = float(input("Digite o primeiro número:  "))
+num2 = float(input("Digite o segundo número:  "))
 
-for count in range(10):
-    print("%d x %d = %d" % (tabuada, count+1, tabuada*(count+1)) )
+resultado = num1 + num2
+
+print("O resultado é: ", resultado)

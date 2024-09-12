@@ -1,3 +1,5 @@
+# Dia 09/09/2024
+# Dado um dataframe df contendo dados de vendas, calcule e exiba: media, mediana, desvio padrão, máximo e mínimo da coluna numérica “vendas” (Python, Pandas e Nmupy)
 import pandas as pd
 import numpy as np
 

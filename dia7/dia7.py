@@ -1,3 +1,6 @@
+# Dia 7 - 10/09/2024
+# Escreva um programa que calcula a tabuada de um número. (Python)
+
 tabuada=int(input("Tabuada do numero: "))
 
 for count in range(10):

@@ -1,3 +1,6 @@
+# Dia 6 - 09/09/2024
+# Faça um programa que calcula o fatorial de um número. (Python)
+
 numero = int(input("Fatorial de: ") )
 
 resultado=1

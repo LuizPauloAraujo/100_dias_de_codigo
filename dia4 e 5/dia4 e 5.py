@@ -1,3 +1,6 @@
+# Dia 4 e 5: 07/09/2024 e 08/09/2024
+# Desafio: Crie uma calculadora simples que realiza operações de adição, subtração, divisão e multiplicação.
+
 def adicao(x, y):
   return x + y
 

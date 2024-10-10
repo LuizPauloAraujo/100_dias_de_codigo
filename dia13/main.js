@@ -4,7 +4,7 @@ function atualizarRelogio() {
     var horas = data.getHours();
     var minutos = data.getMinutes();
     var segundos = data.getSeconds();
-
+    
     if (horas < 10)
     {
         horas = "0" + horas;
